@@ -9,3 +9,4 @@ int main()
     cout << "Author: Markushevski Miraslau\n";
     cout << "Group: 24Ping1d\n";
 }
+
